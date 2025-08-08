@@ -4,5 +4,10 @@ public class App {
         // Insira uma linha que mostre o seu nome na tela
 
         //Kamilah Santos de Souza
+        //Dinara Regina Fleck
+        // Matheus Luis Guareschi 
+        System.out.println("Murilo da Silva Souza");
+        // André Luiz Goi Quatrin, presente!
+        System.out.println("Jasmine Dias Vanzella");
     }
 }
