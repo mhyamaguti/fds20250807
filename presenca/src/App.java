@@ -3,6 +3,7 @@ public class App {
         System.out.println("Presenca da aula 7/8/2025");
 
         // Insira uma linha que mostre o seu nome na tela
+        System.out.println("Diogo Giacoboni Gallo");
         System.out.println("Raul Sjlender Monson");
         //Kamilah Santos de Souza
         //Dinara Regina Fleck
