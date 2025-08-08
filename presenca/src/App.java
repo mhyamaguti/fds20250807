@@ -1,8 +1,9 @@
 public class App {
     public static void main(String[] args) throws Exception {
         System.out.println("Presenca da aula 7/8/2025");
-        // Insira uma linha que mostre o seu nome na tela
 
+        // Insira uma linha que mostre o seu nome na tela
+        System.out.println("Raul Sjlender Monson");
         //Kamilah Santos de Souza
         //Dinara Regina Fleck
         // Matheus Luis Guareschi 
@@ -11,3 +12,4 @@ public class App {
         System.out.println("Jasmine Dias Vanzella");
     }
 }
+
