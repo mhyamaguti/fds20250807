@@ -3,6 +3,7 @@ public class App {
         System.out.println("Presenca da aula 7/8/2025");
 
         // Insira uma linha que mostre o seu nome na tela
+        // rafael richter madeira
         // Natan Stallivieri da Silva
         //Pedro Barreto Munhoz
         //raul neves
